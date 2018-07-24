@@ -1,3 +1,4 @@
+//ok
 var inherits = require('util').inherits;
 var Service, Characteristic;
 var exec = require("child_process").exec;
@@ -13,7 +14,7 @@ module.exports = function (homebridge) {
 
 function CmdAccessory(log, config) {
     this.log = log;
-
+    //version 0.0.4
     // url info
     this.on_cmd = config["on_cmd"];
     this.off_cmd = config["off_cmd"];
