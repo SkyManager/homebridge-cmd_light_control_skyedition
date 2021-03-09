@@ -52,8 +52,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-  "registry":"https://github.com/SkyManager/homebridge-cmd_light_control_skyedition.git"
-  },
   "version": "0.0.5"
 }
