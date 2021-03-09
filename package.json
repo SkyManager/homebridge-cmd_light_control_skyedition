@@ -24,9 +24,9 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/homebridge-cmd_light_control_skyedition/-/homebridge-cmd_light_control_skyedition-0.0.5.tgz",
-  "_spec": "0.0.5",
-  "_where": ".",
+  "resolved": "https://registry.npmjs.org/homebridge-cmd_light_control_skyedition/-/homebridge-cmd_light_control_skyedition-0.0.5.tgz",
+  "spec": "0.0.5",
+  "where": ".",
   "author": {
     "name": "Doodieb15"
   },
