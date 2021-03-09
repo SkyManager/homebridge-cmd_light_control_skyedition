@@ -354,9 +354,9 @@ CmdAccessory.prototype = {
 
     setBrightness: function (level, callback) {
 
-        if (level < 20) {
+        /*if (level < 20) {
             level = 0;
-        }
+        }*/
         var cmd = this.brightness_cmd.replace("%b", level)
         if (!this.getStatus_cmd) {
             this.log.warn("Ignoring request; No status cmd defined.");
