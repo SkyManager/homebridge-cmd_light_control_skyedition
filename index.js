@@ -1,4 +1,4 @@
-//ok test push
+//ok test version
 var inherits = require('util').inherits;
 var Service, Characteristic;
 var exec = require("child_process").exec;
