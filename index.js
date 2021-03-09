@@ -14,7 +14,7 @@ module.exports = function (homebridge) {
 
 function CmdAccessory(log, config) {
     this.log = log;
-    //version 0.0.4
+    //version 0.0.5
     // url info
     this.on_cmd = config["on_cmd"];
     this.off_cmd = config["off_cmd"];
