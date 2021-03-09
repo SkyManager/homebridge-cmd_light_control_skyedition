@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "homebridge-cmd_light_control@0.0.4",
+      "homebridge-cmd_light_control@0.0.5",
       "."
     ]
   ],
-  "_from": "homebridge-cmd_light_control@0.0.4",
-  "_id": "homebridge-cmd_light_control@0.0.4",
+  "_from": "homebridge-cmd_light_control@0.0.5",
+  "_id": "homebridge-cmd_light_control@0.0.5",
   "_inBundle": false,
   "_integrity": "sha1-FI6VPQ2jWmJ//mDrZuefDvG2cj0=",
   "_location": "/homebridge-cmd_light_control",
@@ -14,18 +14,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "homebridge-cmd_light_control@0.0.4",
+    "raw": "homebridge-cmd_light_control@0.0.5",
     "name": "homebridge-cmd_light_control",
     "escapedName": "homebridge-cmd_light_control",
-    "rawSpec": "0.0.4",
+    "rawSpec": "0.0.5",
     "saveSpec": null,
-    "fetchSpec": "0.0.4"
+    "fetchSpec": "0.0.5"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/homebridge-cmd_light_control_skyedition/-/homebridge-cmd_light_control_skyedition-0.0.34.tgz",
-  "_spec": "0.0.4",
+  "_resolved": "https://registry.npmjs.org/homebridge-cmd_light_control_skyedition/-/homebridge-cmd_light_control_skyedition-0.0.5.tgz",
+  "_spec": "0.0.5",
   "_where": ".",
   "author": {
     "name": "Doodieb15"
