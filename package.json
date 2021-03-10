@@ -1,19 +1,59 @@
 {
-  "name": "homebridge-cmd_light_control_skyedition",
-  "description": "",
-  "version": "0.0.6",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      "homebridge-cmd_light_control_skyedition@0.0.4",
+      "."
+    ]
+  ],
+  "_from": "homebridge-cmd_light_control_skyedition@latest",
+  "_id": "homebridge-cmd_light_control_skyedition@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-zbAsfxJYg9H1KK3F+TtZJjRRizFPyJgxKILIy4cjt8WYsQXu8hlgGwwQx226MS9BOqxQGKxRrSKkpO9y5+MjZg==",
+  "_location": "/homebridge-cmd_light_control_skyedition",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-cmd_light_control_skyedition@latest",
+    "name": "homebridge-cmd_light_control_skyedition",
+    "escapedName": "homebridge-cmd_light_control_skyedition",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SkyManager/homebridge-cmd_light_control_skyedition.git"
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-cmd_light_control_skyedition/-/homebridge-cmd_light_control_skyedition-0.0.4.tgz",
+  "_shasum": "62c6d19380ab762d369f70de6c927c6862605fca",
+  "_spec": "homebridge-cmd_light_control_skyedition@latest",
+  "_where": "/usr/local/lib",
+  "author": {
+    "name": "Doodieb15"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/SkyManager/homebridge-cmd_light_control_skyedition/issues"
   },
-  "homepage": "https://github.com/SkyManager/homebridge-cmd_light_control_skyedition"
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Homebridge Plug in to control my lights from cmd files",
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/SkyManager/homebridge-cmd_light_control_skyedition#readme",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "homebridge-cmd_light_control_skyedition",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyManager/homebridge-cmd_light_control_skyedition.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
 }
